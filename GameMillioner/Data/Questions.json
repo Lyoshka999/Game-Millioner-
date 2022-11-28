@@ -1,132 +1,220 @@
 [
  {
-   "text": "Как правильно продолжить припев детской песни: \"Тили-тили...\"?",
+   "text": "Продолжите русскую поговорку: \"Семеро одного...\"?",
    "custom": false,
    "answers": [
      {
-       "answer": "хали-гали",
+       "answer": "не кормят",
        "correct": false
      },
      {
-       "answer": "трали-вали",
+       "answer": "не ждут",
        "correct": true
      },
      {
-       "answer": "жили-были",
+       "answer": "не гладят",
        "correct": false
      },
      {
-       "answer": "ели-пили",
+       "answer": "не греют",
        "correct": false
      }
    ]
  },
  {
-   "text": "Что понадобится, чтобы взрыхлить землю на грядке?",
+   "text": "Какой вид транспорта не имеет службы предварительного заказа билетов?",
    "custom": false,
    "answers": [
      {
-       "answer": "тяпка",
+       "answer": "Троллейбусный",
        "correct": true
      },
      {
-       "answer": "бабка",
+       "answer": "Морской",
        "correct": false
      },
      {
-       "answer": "скобка",
+       "answer": "Авиационный",
        "correct": false
      },
      {
-       "answer": "тряпка",
+       "answer": "Железнодорожный",
        "correct": false
      }
    ]
  },
  {
-   "text": "Как называется экзотическое животное из Южной Америки?",
+   "text": "Как звали Пушкинского Онегина?",
    "custom": false,
    "answers": [
      {
-       "answer": "пчеложор",
+       "answer": "Иван",
        "correct": false
      },
      {
-       "answer": "термитоглот",
+       "answer": "Александр",
        "correct": false
      },
      {
-       "answer": "муравьед",
+       "answer": "Евгений",
        "correct": true
      },
      {
-       "answer": "комаролов",
+       "answer": "Михаил",
        "correct": false
      }
    ]
  },
  {
-   "text": "Во что превращается гусеница?",
+   "text": "Чему равен периметр ромба со стороной 2м ?",
    "custom": false,
    "answers": [
      {
-       "answer": "в мячик",
+       "answer": "4 метра",
        "correct": false
      },
      {
-       "answer": "в пирамидку",
+       "answer": "6 метров",
        "correct": false
      },
      {
-       "answer": "в машинку",
+       "answer": "8 метров квадратный",
        "correct": false
      },
      {
-       "answer": "в куколку",
+       "answer": "8 метров",
        "correct": true
      }
    ]
  },
  {
-   "text": "Что не входило в обязанности первых стюардесс?",
+   "text": "Из каких плодов можно получить копру?",
    "custom": false,
    "answers": [
      {
-       "answer": "заправлять самолет",
+       "answer": "Ананас",
        "correct": false
      },
      {
-       "answer": "носить багаж",
+       "answer": "Вишня",
        "correct": false
      },
      {
-       "answer": "кормить пассажиров",
+       "answer": "Кокос",
        "correct": true
      },
      {
-       "answer": "уничтожать мух",
+       "answer": "Абрикос",
        "correct": false
      }
    ]
  },
  {
-   "text": "Как называется научное исследование, посвященное одной теме?",
+   "text": "Сколько кубиков в кубике Рубика?",
    "custom": false,
    "answers": [
      {
-       "answer": "монография",
+       "answer": "26",
        "correct": true
      },
      {
-       "answer": "историография",
+       "answer": "24",
        "correct": false
      },
      {
-       "answer": "стенография",
+       "answer": "28",
        "correct": false
      },
      {
-       "answer": "литография",
+       "answer": "22",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какого цвета крайнее правое кольцо в олимпийской символике?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Желтое",
+       "correct": false
+     },
+     {
+       "answer": "Красное",
+       "correct": true
+     },
+     {
+       "answer": "Зеленое",
+       "correct": false
+     },
+     {
+       "answer": "Синее",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Сколько морей омывают Балканский полуостров?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "3",
+       "correct": false
+     },
+     {
+       "answer": "6",
+       "correct": true
+     },
+     {
+       "answer": "4",
+       "correct": false
+     },
+     {
+       "answer": "5",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Чему в Туле установлен памятник?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Хлебу",
+       "correct": false
+     },
+     {
+       "answer": "Прянику",
+       "correct": true
+     },
+     {
+       "answer": "Бублику",
+       "correct": false
+     },
+     {
+       "answer": "Кексу",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какое чудо техники крестьяне 20-х годов называли \"Железный конь\"?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Автомобиль",
+       "correct": false
+     },
+     {
+       "answer": "Трактор",
+       "correct": true
+     },
+     {
+       "answer": "Локомотив",
+       "correct": false
+     },
+     {
+       "answer": "Самолет",
        "correct": false
      }
    ]
