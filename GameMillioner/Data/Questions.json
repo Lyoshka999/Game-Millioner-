@@ -1,0 +1,222 @@
+[
+ {
+   "text": "Продолжите русскую поговорку: \"Семеро одного...\"?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "не кормят",
+       "correct": false
+     },
+     {
+       "answer": "не ждут",
+       "correct": true
+     },
+     {
+       "answer": "не гладят",
+       "correct": false
+     },
+     {
+       "answer": "не греют",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какой вид транспорта не имеет службы предварительного заказа билетов?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Троллейбусный",
+       "correct": true
+     },
+     {
+       "answer": "Морской",
+       "correct": false
+     },
+     {
+       "answer": "Авиационный",
+       "correct": false
+     },
+     {
+       "answer": "Железнодорожный",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Как звали Пушкинского Онегина?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Иван",
+       "correct": false
+     },
+     {
+       "answer": "Александр",
+       "correct": false
+     },
+     {
+       "answer": "Евгений",
+       "correct": true
+     },
+     {
+       "answer": "Михаил",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Чему равен периметр ромба со стороной 2м ?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "4 метра",
+       "correct": false
+     },
+     {
+       "answer": "6 метров",
+       "correct": false
+     },
+     {
+       "answer": "8 метров квадратный",
+       "correct": false
+     },
+     {
+       "answer": "8 метров",
+       "correct": true
+     }
+   ]
+ },
+ {
+   "text": "Из каких плодов можно получить копру?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Ананас",
+       "correct": false
+     },
+     {
+       "answer": "Вишня",
+       "correct": false
+     },
+     {
+       "answer": "Кокос",
+       "correct": true
+     },
+     {
+       "answer": "Абрикос",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Сколько кубиков в кубике Рубика?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "26",
+       "correct": true
+     },
+     {
+       "answer": "24",
+       "correct": false
+     },
+     {
+       "answer": "28",
+       "correct": false
+     },
+     {
+       "answer": "22",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какого цвета крайнее правое кольцо в олимпийской символике?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Желтое",
+       "correct": false
+     },
+     {
+       "answer": "Красное",
+       "correct": true
+     },
+     {
+       "answer": "Зеленое",
+       "correct": false
+     },
+     {
+       "answer": "Синее",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Сколько морей омывают Балканский полуостров?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "3",
+       "correct": false
+     },
+     {
+       "answer": "6",
+       "correct": true
+     },
+     {
+       "answer": "4",
+       "correct": false
+     },
+     {
+       "answer": "5",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Чему в Туле установлен памятник?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Хлебу",
+       "correct": false
+     },
+     {
+       "answer": "Прянику",
+       "correct": true
+     },
+     {
+       "answer": "Бублику",
+       "correct": false
+     },
+     {
+       "answer": "Кексу",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какое чудо техники крестьяне 20-х годов называли \"Железный конь\"?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Автомобиль",
+       "correct": false
+     },
+     {
+       "answer": "Трактор",
+       "correct": true
+     },
+     {
+       "answer": "Локомотив",
+       "correct": false
+     },
+     {
+       "answer": "Самолет",
+       "correct": false
+     }
+   ]
+ }
+ ]
